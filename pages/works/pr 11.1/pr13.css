@@ -1,0 +1,197 @@
+body{
+    font-family: Comic sans ms;
+    font-style: italic;
+}
+section{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-left: 150px;
+    padding: 5%;
+
+}
+.two content{
+    margin-top: auto;
+}
+section article{
+    width: 310px;
+    margin: 5px;
+}
+img{
+    width: 60%;
+    background-size: cover;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-flow: column wrap;
+}
+article{
+    width: 300px;
+}
+span{
+    color: blue;
+}
+button{
+    display: flex;
+    margin-top: 50%;
+    width: 30%;
+    background-color: rgb(22, 22, 187);
+    border-radius: 8px;
+    border: none;
+    color: white;
+    height: 30px;
+}
+p{
+    font-style: italic;
+    color: blueviolet;
+    margin-top: auto;
+}
+.seven{
+    display: flex;
+    flex-wrap: wrap;
+    height: 163px;
+    width: 232px;
+}
+.eit{
+    width: 400px;
+}
+.five{
+    width: 400px;
+}
+.price1{
+    font-family: ARIAL BLACK;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 108px;
+    height: 56px;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.price2{
+    font-family: ARIAL BLACK;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 108px;
+    height: 56px;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.price3{
+    font-family: ARIAL BLACK;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 108px;
+    height: 56px;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.price6{
+    font-family: ARIAL BLACK;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 108px;
+    height: 56px;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.content1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 245px;
+    height: 59px;
+}
+.content2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 245px;
+    height: 59px;
+}
+.content3{
+    display: flex;
+    flex-wrap: wrap;
+    width: 245px;
+    height: 59px;
+}
+.price7{
+    font-family: ARIAL BLACK;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 108px;
+    height: 56px;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.price8{
+    font-family: ARIAL BLACK;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 108px;
+    height: 56px;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+hr{
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    border-top: 5px dotted black;
+    color: #fff;
+    height: 3px;
+    width: 843px;
+}
+h4{
+    font-family: ARIAL BLACK;
+    font-size: 30px;
+    align-content: flex-end;
+    display: flex;
+    flex-wrap: wrap;
+    width: 793px;
+    height: 50px;
+}
+.tel1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 180px;
+    height: 50px;
+    justify-self: flex-start;
+}
+.tel2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 180px;
+    height: 50px;
+}
+.tel3{
+    display: flex;
+    flex-wrap: wrap;
+    width: 190px;
+    height: 50px;
+}
+.tel4{
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 50px;
+}
+.tel5{
+    display: flex;
+    flex-wrap: wrap;
+    width: 210px;
+    height: 50px;
+}
+.tel6{
+    display: flex;
+    flex-wrap: wrap;
+    width: 220px;
+    height: 50px;
+}
