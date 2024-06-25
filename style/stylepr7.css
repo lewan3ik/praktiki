@@ -1,0 +1,66 @@
+.p1{
+    text-align: center;
+}
+.p2{
+    text-indent: 5px;
+    text-indent: 2%;
+}
+.p3{
+    line-height:20px;
+    line-height: 200%;
+}
+.p4{
+    vertical-align: 30px;
+}
+.p5{
+    word-spacing: 2px;
+}
+.p6{
+    letter-spacing: 3px;
+}
+.p7{
+    white-space: nowrap;
+}
+.p8{
+    tab-size: 30;
+}
+.p9{
+    text-transform: capitalize;
+}
+.p10{
+    direction: rtl;
+}
+#p11{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+#p12{
+    text-decoration: line-through;
+}
+#p13{
+    background-color: pink;
+}
+#p14{
+    quotes: '<<';
+}
+#p15{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p16{
+    font-style: oblique;
+}
+#p17{
+    font-variant: small-caps;
+}
+#p18{
+    font-weight: bold;
+}
+#p19{
+    color: red;
+}
+#p20{
+    font: italic bold 30px;
+}
+#p21{
+    padding-top: 20px;
+}

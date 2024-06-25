@@ -1,0 +1,118 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+body{
+    background: black;
+}
+.prew{
+    width: 200px;
+    height: 100px;
+}
+.new1{
+    background: url(../img/zywoo.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+.new2{
+    background: url(../img/11222.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+.new3{
+    background: url(../img/s0mple.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+
+
+
+.new4{
+    background: url(../img/pokemonjpeg.jpeg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+.new5{
+    background: url(../img/Dasha.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+.new6{
+    background: url(../img/game.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+
+
+
+
+
+.content{
+    display: flex; justify-content: space-between; align-items: flex-end;
+
+
+}
+main{
+    width: 20%;
+}
+aside{
+    height: 80%; 
+}
+
+
+
+
+
+
+
+h1{font-size: 24px;}
+h2{font-size: 20px;}
+h3{font-size: 18px;}
+ul li{
+    display: inline-block;
+}
+ul{
+    background: pink
+}
+li{
+    padding: 10px;
+}
+
+
+
+
+
+.wrap{
+    color: red;
+}
+.rap{
+    color: orange;
+}
+.par{
+    color: black;
+}
+.trap{
+    color: crimson;
+}
+.lox{
+  color: white;
+}
+.bam{
+    color: green;
+}
+.num{
+    color: white;
+}
+
+.vpn{
+    color: white;
+}
+.details{
+    color: greenyellow;
+}
