@@ -1,0 +1,74 @@
+*{
+    font-family: Arial;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    align-content: flex-end;
+}
+button{
+    color: yellow;
+    background: black;
+    margin-top: 90px;
+}
+.one button{
+    display: flex;
+    margin-left: 55%;
+}
+.input{
+
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 300px;
+}
+.input1{
+    width: 400px;
+    border:  2px solid black;
+}
+.input2{
+    margin-top: 10px;
+    width: 400px;
+    border:  2px solid black;
+}
+.input3{
+    margin-top: 10px;
+    width: 400px;
+    border:  2px solid black;
+}
+.input4{
+    margin-top: 10px;
+    width: 300px;
+    height: 90px;
+    border:  2px solid black;
+}
+
+hr{
+    width: 100px;
+    color: yellow;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 250px;
+    border-bottom: solid 5px;
+    border-color: yellow;
+}
+h2{
+    font-size: 30px;
+    color: grey;
+}
+p{
+    color: grey;
+}
+
+.tri{
+    color: black;
+    font-size: 25px;
+}
+.two{
+    margin-left: 50px;
+}
+.work{
+    margin-bottom: 50px;
+    margin-top: 70px;
+}

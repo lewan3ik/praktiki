@@ -1,0 +1,211 @@
+body{
+    font-family: Arial;
+}
+.txt{
+    font-family: Arial;
+    display: flex;
+    flex-wrap: wrap;
+    width: 816px;
+    height: 249px;
+    background: linear-gradient(to bottom, red, orange);
+}
+ul{
+    font-family: Arial;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    list-style: none;
+    align-items: flex-end;
+    gap: 20px;
+}
+.news{
+    font-family: Arial;
+    display: flex;
+    flex-wrap: wrap ;
+    align-content: center;
+    list-style: none;
+    color: white;
+}
+li:hover{
+    border-bottom: 2px solid rgb(204, 0, 255);
+}
+li{
+    padding: 2px;
+}
+.one{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.two{
+    display: flex;
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
+    justify-content: flex-end;
+}
+.three{
+    display: flex;
+    width: 103px;
+    height: 48px;
+    margin-top: 30px;
+}
+.art{
+    border-bottom: 4px;
+    color: re;
+}
+.line{
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 817px;
+    align-items: center;
+    gap: 30px;
+    background-color: rgb(172, 169, 169);
+}
+.Plant{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 150px;
+}
+
+.Plant .plant img{
+    float: left;
+    margin-top: 10px;
+    width: 152px;
+    height: 100px;
+}
+.Plant .start{
+    float: left;
+    color: black;
+}
+.Plant p{
+
+    word-spacing: 4px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.start b{
+
+    color: rgb(0, 66, 248);
+}
+.start span{
+    font-weight: bolder;
+    color: black;
+}
+hr{
+    margin-top: 150px;
+    margin-right: 1030px;
+}
+.Elif{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 150px;
+}
+.Elif .elif img{
+    float: left;
+    margin-top: 10px;
+    width: 152px;
+    height: 100px;
+}
+.Elif .go{
+    float: left;
+    color: black;
+}
+.Elif p{
+
+    word-spacing: 4px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.go b{
+
+    color: rgb(0, 66, 248);
+}
+.go span{
+    font-weight: bolder;
+    color: black;
+}
+.goo{
+    margin-top: 160px;
+    margin-right: 1030px;
+}
+.Louvr{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 150px;
+}
+.Louvr .louvr img{
+    float: left;
+    margin-top: 10px;
+    width: 152px;
+    height: 100px;
+}
+.Louvr .to{
+    float: left;
+    color: black;
+}
+.Louvr p{
+    word-spacing: 4px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.to b{
+
+    color: rgb(0, 66, 248);
+}
+.to span{
+    font-weight: bolder;
+    color: black;
+}
+.too{
+    margin-top: 160px;
+    margin-right: 1030px;
+}
+.line2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 817px;
+    align-items: center;
+    gap: 30px;
+    background-color: rgb(172, 169, 169);
+}
+.Pise{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 150px;
+}
+.Pise .pise img{
+    float: left;
+    margin-top: 10px;
+    width: 152px;
+    height: 100px;
+}
+.Pise .to{
+    float: left;
+    color: black;
+}
+.Pise p{
+    word-spacing: 4px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.do b{
+
+    color: rgb(0, 66, 248);
+}
+.do span{
+    font-weight: bolder;
+    color: black;
+}

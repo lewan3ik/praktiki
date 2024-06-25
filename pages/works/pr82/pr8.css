@@ -1,0 +1,58 @@
+.one{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px;
+}
+.two{
+    border: 2px solid rgb(3, 2, 2);
+    padding: 5px
+}
+.three{
+    border: 2px solid rgb(3, 2, 2);
+    padding: 5px
+}
+a{
+    justify-content: flex-end;
+    display: flex;
+    flex-wrap: wrap;
+    width: 862px;
+    height: 30px;
+}
+.onee{
+    width: 60%;
+    padding: 10px;
+    margin: auto;
+}
+.twoo{
+    width: 60%;
+    padding: 10px;
+    margin: auto;
+}
+.threee{
+    width: 60%;
+    padding: 10px;
+    margin: auto;
+}
+p{
+    text-indent: 50px;
+    line-height: 33px;
+    text-align: justify;
+    margin: 0;
+    font-size: 17px;
+    padding: 0 10px;
+}
+.art{
+    border: 5px solid rgb(0, 0, 0);
+    float: left;
+    font-family: Arial;
+    word-spacing: 30px;
+    padding: 0px;
+    height: 122px;
+    width: 265px;
+}
+.article p{
+    overflow: hidden;
+}
+li{
+    
+    list-style: none;
+}
